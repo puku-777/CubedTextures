@@ -1,3 +1,6 @@
+# Cubed Textures fork for use by Armchair Urbanist Minecraft server
+
+## Original info by Cubed Community
 
 ![alt text](https://i.imgur.com/uDekgeX.png "Cubed Textures")
 
